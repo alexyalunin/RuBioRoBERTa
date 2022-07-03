@@ -1,0 +1,9 @@
+{
+  "DeepPavlov/rubert-base-cased": false,
+  "sberbank-ai/ruRoberta-large": true,
+  "sberbank-ai/ruBert-base": false,
+  "sberbank-ai/ruT5-base": false,
+  "sberbank-ai/ruT5-large": false,
+  "models/sber_rubert": false,
+  "models/sber_roberta": false
+}
