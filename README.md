@@ -1,12 +1,14 @@
 
 # RuBioRoBERTa
 
-The models are available at 
+The models can be found here:
 
 https://huggingface.co/alexyalunin/RuBioRoBERTa
 
 https://huggingface.co/alexyalunin/RuBioBERT
 
+
+## Reproduce
 1. Download RuMedBench and install `requirements.txt`
 
 2. For pre-training run `scripts/1_pretrain.sh` or `scripts/1_pretrain_distributed.sh`
