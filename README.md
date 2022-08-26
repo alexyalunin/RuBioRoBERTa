@@ -1,5 +1,6 @@
 
 # RuBioRoBERTa
+Paper: https://arxiv.org/abs/2204.03951
 
 The models can be found here:
 
